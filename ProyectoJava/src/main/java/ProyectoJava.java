@@ -14,7 +14,9 @@ public class ProyectoJava {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-           System.Out.println("Hola Mundo");          // TODO codde application logic here 
+        // TODO codde application logic here    
+        //System.Out.println("Hola Mundo");  
+        System.out.println("Hola mundo corregido desde Netbeans!");
     }
     
     
